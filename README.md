@@ -2,7 +2,7 @@
 
 ### PNG to JPG Description:
 
-The repository contained the minfied source code for the [PNG to JPG tool](https://pngtojpg.github.io). PNG to JPG is a tool avaliable online that allows you to quickly convert from the PNG files to JPG (also refered to as JPEG) files within your own browser using javascript.
+The repository contained the minified source code for the [PNG to JPG tool](https://pngtojpg.github.io). PNG to JPG is a tool avaliable online that allows you to quickly convert from the PNG files to JPG (also refered to as JPEG) files within your own browser using javascript.
 
 ### Compatibility
 JPG to PNG is compatible with most modern browsers
